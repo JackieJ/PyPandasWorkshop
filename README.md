@@ -1,4 +1,4 @@
-# CalHacksPyPandasWorkshop
+# LAHacks Pandas Workshop
 ## Setup
 * Make sure you have Python installed `python --version`. If not, install from [here](https://www.python.org/downloads/). Either Python 3 or 2 is fine.
 * Install [Anaconda](https://www.anaconda.com/download). Make sure the version matches the python runtime version
